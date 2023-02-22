@@ -1,0 +1,101 @@
+"","ID","Alter","Studienfach","Mathe_LK","Interesse_an_Mathematik","Interesse_an_Informatik"
+"1",1,25,"Data Science",1,5,4
+"2",2,23,"Mathe",1,2,1
+"3",3,21,"Data Science",1,7,2
+"4",4,25,"Data Science",0,7,6
+"5",5,24,"Informatik",1,2,4
+"6",6,27,"Informatik",1,6,2
+"7",7,23,"Informatik",1,6,6
+"8",8,27,"Statistik",1,2,4
+"9",9,24,"Informatik",1,4,4
+"10",10,24,"Data Science",1,7,1
+"11",11,26,"Data Science",0,3,2
+"12",12,24,"Data Science",1,2,1
+"13",13,26,"Statistik",1,3,2
+"14",14,26,"Informatik",0,4,3
+"15",15,24,"Informatik",1,7,4
+"16",16,26,"Data Science",0,6,3
+"17",17,26,"Statistik",1,2,2
+"18",18,26,"Statistik",1,2,3
+"19",19,27,"Mathe",0,1,2
+"20",20,26,"Statistik",0,3,4
+"21",21,24,"Informatik",1,3,1
+"22",22,24,"Informatik",1,4,3
+"23",23,27,"Data Science",1,7,3
+"24",24,25,"Mathe",0,1,1
+"25",25,24,"Informatik",0,7,2
+"26",26,21,"Data Science",1,5,1
+"27",27,24,"Statistik",1,3,1
+"28",28,23,"Data Science",1,2,1
+"29",29,28,"Informatik",0,7,2
+"30",30,30,"Data Science",0,6,3
+"31",31,24,"Data Science",0,1,3
+"32",32,28,"Data Science",1,1,4
+"33",33,23,"Statistik",0,2,5
+"34",34,25,"Mathe",0,2,2
+"35",35,24,"Mathe",0,6,4
+"36",36,24,"Informatik",0,2,4
+"37",37,26,"Informatik",0,1,3
+"38",38,27,"Informatik",1,6,1
+"39",39,27,"Mathe",0,1,2
+"40",40,25,"Statistik",1,1,3
+"41",41,26,"Data Science",0,2,3
+"42",42,26,"Mathe",1,3,4
+"43",43,26,"Informatik",1,4,1
+"44",44,25,"Statistik",1,3,4
+"45",45,26,"Data Science",1,6,1
+"46",46,26,"Statistik",0,3,2
+"47",47,30,"Informatik",0,7,3
+"48",48,27,"Informatik",1,7,3
+"49",49,26,"Statistik",0,1,1
+"50",50,27,"Statistik",0,3,2
+"51",51,26,"Mathe",1,1,4
+"52",52,23,"Statistik",0,4,6
+"53",53,24,"Statistik",1,1,1
+"54",54,27,"Informatik",1,5,1
+"55",55,28,"Data Science",0,2,2
+"56",56,30,"Informatik",0,4,3
+"57",57,21,"Data Science",0,5,3
+"58",58,24,"Informatik",0,2,6
+"59",59,26,"Mathe",1,7,3
+"60",60,26,"Data Science",1,7,3
+"61",61,27,"Data Science",1,5,1
+"62",62,24,"Statistik",1,3,4
+"63",63,21,"Mathe",0,3,3
+"64",64,23,"Data Science",1,7,1
+"65",65,27,"Informatik",0,2,2
+"66",66,25,"Informatik",1,7,1
+"67",67,27,"Informatik",1,5,5
+"68",68,24,"Mathe",0,7,5
+"69",69,27,"Data Science",1,6,6
+"70",70,27,"Informatik",1,2,3
+"71",71,22,"Mathe",1,1,1
+"72",72,23,"Data Science",0,7,3
+"73",73,25,"Statistik",1,1,4
+"74",74,23,"Statistik",0,5,6
+"75",75,26,"Informatik",0,5,4
+"76",76,25,"Statistik",1,2,5
+"77",77,25,"Data Science",0,2,2
+"78",78,24,"Mathe",0,2,1
+"79",79,25,"Informatik",0,1,1
+"80",80,23,"Informatik",1,2,3
+"81",81,25,"Data Science",0,7,1
+"82",82,28,"Statistik",1,3,1
+"83",83,25,"Data Science",0,5,7
+"84",84,26,"Informatik",1,3,3
+"85",85,25,"Informatik",1,1,2
+"86",86,26,"Statistik",0,4,4
+"87",87,27,"Statistik",0,1,5
+"88",88,24,"Statistik",0,1,1
+"89",89,23,"Data Science",0,2,2
+"90",90,21,"Informatik",0,7,2
+"91",91,22,"Informatik",0,3,1
+"92",92,26,"Mathe",1,5,4
+"93",93,24,"Informatik",1,6,3
+"94",94,30,"Mathe",1,1,2
+"95",95,23,"Data Science",0,5,2
+"96",96,27,"Mathe",1,1,6
+"97",97,22,"Data Science",0,1,2
+"98",98,25,"Statistik",1,3,3
+"99",99,23,"Data Science",0,5,3
+"100",100,22,"Data Science",0,3,1
