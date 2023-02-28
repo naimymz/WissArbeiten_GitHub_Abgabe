@@ -1,14 +1,20 @@
-funktiona <- function(Alter) #(a) Eine Funktion, die verschiedene geeignete deskriptive Statistiken für metrische Variablen berechnet und ausgibt, hier am Beispiel "Alter", welche durch andere metrische Variablen ersetzt werden kann 
-{summary (Alter) #gibt Minimum, Maximum, Median(2. Quartil), Mittelwert, erstes und drittes Quartil aus
-  sd (Alter) # Standardabweichung
-  var (Alter) #Varianz
-  skew (Alter) #Schiefe, bei <0 -> linksschiefe Verteilung, bei >0 -> rechtsschiefe Verteilung
-  IQR (Alter) #Interquartilsabstand, also 3. Quartil minus 1. Quartil
+funktiona <- function(x) #(a) Eine Funktion, die verschiedene geeignete deskriptive Statistiken fÃ¼r metrische Variablen berechnet und ausgibt, hier am Beispiel "Alter", welche durch andere metrische Variablen ersetzt werden kann 
+{summa <- summary (x) #gibt Minimum, Maximum, Median(2. Quartil), Mittelwert, erstes und drittes Quartil aus
+  standardabw <- sd (x) # Standardabweichung
+  varianz <- var (x) #Varianz
+  schiefe <- skew (x) #Schiefe, bei <0 -> linksschiefe Verteilung, bei >0 -> rechtsschiefe Verteilung
+  interquartilab <- IQR (x) #Interquartilsabstand, also 3. Quartil minus 1. Quartil
+ return(summa)
+ return(standardabw)
+ return(varianz)
+ return(schiefe)
+ return(interquartilab)
   }
 
-funktionb <- function(Interesse_an_Mathematik) #(b) Eine Funktion, die verschiedene geeignete deskriptive Statistiken für kategoriale Variablen berechnet und ausgibt, hier am Beispiel "Interesse_an_Mathematik", welche durch eine andere kategorielle Variable ersetzt werden kann
+funktionb <- function(Interesse_an_Mathematik) #(b) Eine Funktion, die verschiedene geeignete deskriptive Statistiken fÃ¼r kategoriale Variablen berechnet und ausgibt, hier am Beispiel "Interesse_an_Mathematik", welche durch eine andere kategorielle Variable ersetzt werden kann
 {#Berechnung des Modus
-  M <- table(sim_dat$Interesse_an_Mathematik) ## Häufigkeitstabelle von Variable Intersse_an_Mathematik erstellen aus dem Datensat sim_dat
-maximum <- max(M) ## das Objekt maximum enthält nun die größte Häufigkeit
-which(M == maximum) ## mit which können wir die Ausprägungen von M erhalten, die die größte Häufigkeit aufweisen
+  M <- table(Simulierter_Datensatz$Interesse_an_Mathematik) ## HÃ¤ufigkeitstabelle von Variable Intersse_an_Mathematik erstellen aus dem Datensat sim_dat
+maximum <- max(M) ## das Objekt maximum enthÃ¤lt nun die grÃ¶ÃŸte HÃ¤ufigkeit
+which(M == maximum) ## mit which kÃ¶nnen wir die AusprÃ¤gungen von M erhalten, die die grÃ¶ÃŸte HÃ¤ufigkeit aufweisen
+return(M)
 }
